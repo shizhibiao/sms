@@ -1,0 +1,35 @@
+.el-form-item{
+  margin-bottom: 0;
+}
+/*.el-table th {*/
+  /*background-color: #409EFF !important;*/
+  /*color: white;*/
+/*}*/
+.el-table {
+  width: 100%;
+}
+.b-table th {
+  background-color: #5bc0de !important;
+  color: white;
+  height: 35px;
+  vertical-align: middle;
+}
+.table th {
+  background-color: #5bc0de !important;
+  color: white;
+  height: 35px;
+  vertical-align: middle;
+}
+.el-input{
+  width: 100%;
+}
+.el-select {
+  width: 100%;
+}
+.el-tabs__item {
+  font-size: 16px !important;
+  color: #000000;
+}
+.el-button+.el-button {
+  margin-left: 0
+}
